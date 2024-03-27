@@ -24,4 +24,4 @@ Gigi’s autopsy report was prepared by the Los Angeles County Department of Med
 
   **Gigi Autopsy Report: PDF, In-Depth Analysis, Cause Of Death, And Implications**
 
-[<img src="https://github.com/Provider058/PDF-NEW/blob/main/PDF.png"/>](https://highanddry.cfd)
+[<img src="https://github.com/Provider058/PDF-NEW/blob/main/DBD.png"/>](https://highanddry.cfd)
